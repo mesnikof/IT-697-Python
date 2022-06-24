@@ -11,7 +11,7 @@ print('Hello there!\n\t', 5)
 print('Hello ' + 'there' + '!')
 
 # Perform a 'print()' using one form of scientific notation.
-print(f"{3.78:.1E}")
+print(f"{3.78:.2E}")
 
 # Perform a 'print()' using the ascii value of 'A'.
 print(chr(65))
